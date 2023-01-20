@@ -1,0 +1,3 @@
+[submodule "Pandas_tutorial"]
+	path = Pandas_tutorial
+	url = https://github.com/kra268/Tutorials
